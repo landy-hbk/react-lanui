@@ -1,0 +1,37 @@
+yarn add v1.22.10
+warning ..\..\package.json: No license field
+[1/4] Resolving packages...
+error Couldn't find package "@storybook/node-logger@7.3.2" required by "@storybook/codemod@7.3.2" on the "npm" registry.
+info Visit https://yarnpkg.com/en/docs/cli/add for documentation about this command.
+Error: Couldn't find package "@storybook/node-logger@7.3.2" required by "@storybook/cli@7.3.2" on the "npm" registry.
+    at MessageError.ExtendableBuiltin (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:721:66)
+    at new MessageError (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:750:123)
+    at PackageRequest.<anonymous> (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:36539:17)
+    at Generator.throw (<anonymous>)
+    at step (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+    at C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:323:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Couldn't find package "@storybook/node-logger@7.3.2" required by "@storybook/core-server@7.3.2" on the "npm" registry.
+    at MessageError.ExtendableBuiltin (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:721:66)
+    at new MessageError (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:750:123)
+    at PackageRequest.<anonymous> (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:36539:17)
+    at Generator.throw (<anonymous>)
+    at step (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+    at C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:323:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Couldn't find package "@storybook/node-logger@7.3.2" required by "@storybook/core-common@7.3.2" on the "npm" registry.
+    at MessageError.ExtendableBuiltin (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:721:66)
+    at new MessageError (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:750:123)
+    at PackageRequest.<anonymous> (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:36539:17)
+    at Generator.throw (<anonymous>)
+    at step (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+    at C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:323:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: Couldn't find package "@storybook/node-logger@7.3.2" required by "@storybook/builder-manager@7.3.2" on the "npm" registry.
+    at MessageError.ExtendableBuiltin (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:721:66)
+    at new MessageError (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:750:123)
+    at PackageRequest.<anonymous> (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:36539:17)
+    at Generator.throw (<anonymous>)
+    at step (C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+    at C:\Users\landy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:323:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
